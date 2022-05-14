@@ -1,4 +1,4 @@
-# Chaining Selectors
+ # Chaining Selectors
 
 Credits for the images in this exercise go to [Katho Mutodo](https://www.pexels.com/@photobykatho?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) and [Andrea Piacquadio](https://www.pexels.com/@olly?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels).
 
@@ -15,6 +15,6 @@ The properties you need to add to each element are:
 ![desired outcome](./desired-outcome.png)
 
 ### Self Check
-- Did you properly chain class selectors for each rule?
-- Does the `proportioned` image retain its original square proportions?
-- Does the `distorted` image end up looking squished and, well, distorted?
+- Did you properly chain class selectors for each rule? YES
+- Does the `proportioned` image retain its original square proportions? YES
+- Does the `distorted` image end up looking squished and, well, distorted YES
